@@ -8,3 +8,10 @@ Redis is a flexible, open-source (BSD licensed), in-memory data structure store,
 
 Redis supports various types of data structures like strings, hashes, lists, sets, sorted sets, bitmaps, hyperloglogs and geospatial indexes with radius queries.
 
+### Download Files
+
+1. Redis 
+2. Jedis :  a client library in Java for Redis – the popular in-memory data structure store that can persist on disk as well. It is driven by a keystore-based data structure to persist data and can be used as a database, cache, message broker, etc.
+More Details: https://www.javadoc.io/doc/redis.clients/jedis/latest/redis/clients/jedis/Jedis.html
+
+
